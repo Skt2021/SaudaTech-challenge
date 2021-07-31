@@ -1,0 +1,22 @@
+.task6-container {
+    width: 90vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.task6-property {
+    font: normal normal bold 24px/29px Lato;
+    letter-spacing: 0px;
+    color: #1D1A1A;
+    opacity: 1;
+}
+
+.task6-value {
+    font: normal normal bold 24px/29px Lato;
+    letter-spacing: 0px;
+    color: red;
+    opacity: 1;
+}
